@@ -27,7 +27,7 @@ using NLP and interactive visualizations.
 <h2>📊 Sample Visualizations</h2>
 
 <p align="center">
-  <img width="1377" height="550" alt="Visualization 1" src="https://github.com/user-attachments/assets/99c2a9fd-4f4b-4024-a293-e140b172d1c7" />
+  <img width="1377" height="580" alt="Visualization 1" src="https://github.com/user-attachments/assets/99c2a9fd-4f4b-4024-a293-e140b172d1c7" />
 </p>
 <br>
 <p align="center">
