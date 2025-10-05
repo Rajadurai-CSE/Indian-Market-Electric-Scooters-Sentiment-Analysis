@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Indian-Market-Electric-Scooters-Sentiment-Analysis</h1>
+<h1 align="center">🛵 Indian-Market-Electric-Scooters-Sentiment-Analysis</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?logo=python" alt="Python Badge"/>
@@ -7,8 +7,7 @@
 </p>
 
 <p align="center" style="font-size:16px; color:#475569;">
-This project analyzes customer reviews of popular Indian electric scooters like <strong>Bajaj Chetak</strong> and <strong>Ola S1X</strong> 
-to uncover <strong>key sentiment patterns</strong>, <strong>frequently discussed themes</strong>, and <strong>dominant topics</strong> using 
+This project analyzes customer reviews of popular Indian family segment electric scooters to uncover <strong>key sentiment patterns</strong>, <strong>frequently discussed themes</strong>, and <strong>dominant topics</strong> using 
 state-of-the-art NLP techniques and interactive visualizations.
 </p>
 
@@ -26,9 +25,11 @@ state-of-the-art NLP techniques and interactive visualizations.
 
 <h2> 📊 Sample Visualizations</h2>
 
-<p align="center">
-  🖼️ <em>Place your sentiment distribution Plotly chart here</em>  
-</p>
+<img width="1377" height="525" alt="newplot (11)" src="https://github.com/user-attachments/assets/99c2a9fd-4f4b-4024-a293-e140b172d1c7" />
+<img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/74e776e3-3b1a-4795-b9cc-c77269a6e9c4" />
+<img width="1259" height="329" alt="image (1)" src="https://github.com/user-attachments/assets/480f758a-5afc-4cca-93ad-5c4eef0e2ae2" />
+<img width="1377" height="525" alt="newplot (3) (1)" src="https://github.com/user-attachments/assets/e62078c6-ad4a-4fc5-8f01-b8aa40c58329" />
+
 
 <p align="center">
   <img src="<!-- Add sentiment distribution image link here -->" alt="Sentiment Distribution Visualization" width="700">
@@ -44,7 +45,7 @@ We used <strong>BERTopic / c-TF-IDF</strong> to group semantically similar revie
 </p>
 
 <p align="center">
-  🖼️ <em>Insert your Topic Clusters or WordCloud visualization here</em>
+  <img width="1200" height="750" alt="newplot (10) (1)" src="https://github.com/user-attachments/assets/eb37c399-f97c-4783-ab15-2bba94a52f34" />
 </p>
 
 <p align="center">
@@ -59,13 +60,14 @@ Explore interactive charts directly in your browser using the Google Colab noteb
 </p>
 
 <p align="center">
-  🔗 <a href="<!-- Add your Google Colab link here -->" target="_blank" style="font-size:16px; color:#0ea5a6; text-decoration:none;">
-    Open Interactive Plotly Dashboard on Google Colab
+  🔗 <a href="https://colab.research.google.com/drive/1jmOW7TfyuqDBMTuxqR-PBoBwxa2eLafG?usp=sharing" target="_blank" style="font-size:16px; color:#0ea5a6; text-decoration:none;">
+    Open on Google Colab
   </a>
 </p>
 
 <p align="center">
-  🖼️ <em>Embed one or two example interactive screenshots below</em>
+  🖼️ <em><img width="1917" height="871" alt="port" src="https://github.com/user-attachments/assets/03adebac-c73d-4bbf-a03c-c4ab59c18c53" /> </em>
+
 </p>
 
 <p align="center">
@@ -91,6 +93,7 @@ Explore interactive charts directly in your browser using the Google Colab noteb
 <ul style="line-height:1.8;">
   <li><strong>Bajaj Chetak:</strong> Loved for build quality and smooth ride, criticized for battery and service issues.</li>
   <li><strong>Ola S1X:</strong> Praised for performance and range, but users face inconsistent service experiences.</li>
+  <a style="text-underline:None" href="https://colab.research.google.com/drive/1jmOW7TfyuqDBMTuxqR-PBoBwxa2eLafG?usp=sharing#scrollTo=aXEH0c5e0b03"> <li>Explore more on the notebook..</li></a>
   <li>Across all models, <strong>Service Centre response</strong> and <strong>Battery performance</strong> are recurring pain points.</li>
 </ul>
 
@@ -101,11 +104,9 @@ Explore interactive charts directly in your browser using the Google Colab noteb
 <pre style="background:#f8fafc; padding:12px; border-radius:6px; border-left:4px solid #0ea5a6;">
 EV_Sentiment_Analysis/
 │
-├── data/                     # Raw and cleaned review datasets
-├── notebooks/                # Jupyter/Colab notebooks
-├── visuals/                  # Plotly and wordcloud visualizations
-├── models/                   # Trained topic models (optional)
-├── scripts/                  # Helper Python scripts
+├── sentiment_analysis_notebook.ipynb    # Jupyter/Colab notebooks
+├── results.pdf                  # Results of the study
+├── script.py                   # Modified Web Scrapping Code
 └── README.md                 # Project documentation
 </pre>
 
@@ -115,13 +116,13 @@ EV_Sentiment_Analysis/
 
 <p>
 Feel free to reach out for collaborations, improvements, or project discussions.<br>
-<strong>Author:</strong> <!-- Your Name Here --> <br>
-<strong>Email:</strong> <!-- Your Email Here --> <br>
-<strong>LinkedIn:</strong> <a href="<!-- Your LinkedIn Link -->" target="_blank">View Profile</a>
+<strong>Author:</strong> S.Rajadurai <br>
+<strong>Email:</strong> rajadurai3491@gmail.com <br>
+<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rajadurai-2004cse" target="_blank">View Profile</a>
 </p>
 
 <hr style="border:0; border-top:1px solid #e5e7eb; margin:24px 0;">
 
 <p align="center" style="font-size:14px; color:#94a3b8;">
-© 2025 EV Sentiment Analysis | Made with ❤️ using Python & Plotly
+© 2025 EV Scooters Sentiment Analysis
 </p>
