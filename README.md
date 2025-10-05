@@ -27,15 +27,15 @@ using NLP and interactive visualizations.
 <h2>📊 Sample Visualizations</h2>
 
 <p align="center">
-  <img width="1377" height="525" alt="Visualization 1" src="https://github.com/user-attachments/assets/99c2a9fd-4f4b-4024-a293-e140b172d1c7" />
+  <img width="1377" height="550" alt="Visualization 1" src="https://github.com/user-attachments/assets/99c2a9fd-4f4b-4024-a293-e140b172d1c7" />
 </p>
-
+<br>
 <p align="center">
-  <img width="1259" height="329" alt="Visualization 2" src="https://github.com/user-attachments/assets/480f758a-5afc-4cca-93ad-5c4eef0e2ae2" />
+  <img width="1259" height="350" alt="Visualization 2" src="https://github.com/user-attachments/assets/480f758a-5afc-4cca-93ad-5c4eef0e2ae2" />
 </p>
-
+<br>
 <p align="center">
-  <img width="1377" height="525" alt="Visualization 3" src="https://github.com/user-attachments/assets/e62078c6-ad4a-4fc5-8f01-b8aa40c58329" />
+  <img width="1377" height="550" alt="Visualization 3" src="https://github.com/user-attachments/assets/e62078c6-ad4a-4fc5-8f01-b8aa40c58329" />
 </p>
 
 <hr style="border:0; border-top:1px solid #e5e7eb; margin:24px 0;">
